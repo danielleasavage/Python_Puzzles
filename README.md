@@ -37,8 +37,7 @@ Given a prefix or a suffix find all matching words in a given list of words Code
 > Hello I am the problem
 * lazy.py - Final Solution to puzzle given below.
 > Belfort invests in stocks. He recently was able to get his hands on a a time machine. He realizes that with his knowledge of the stock market history he can make money by buying and selling at the right times. Given that he can only take $100 with him and can travel back at max one year how much money can he make?
-
-_INPUT_
+__INPUT__
 The first line the number of days Belfort goes back in time -- d(1 ≤ d ≤ 365) type : int
 Then follow d lines is the price per share on day i. Days are ordered from oldest to newest -- pi(1 ≤ pi ≤ 500) : type int
 
