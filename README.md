@@ -9,8 +9,8 @@ All solutions are written in Python 3. Enjoy :)
 ## Contents
 
 **[ReHash - Creating a HashTable Class](https://github.com/USF-MSAN689/rehash-danielleasavage)**
-  1. Creating_Htable_class.ipynb - This is the jupyter notebook used to create and test the original htable class
-  2. htable_oo.py - This is the final py file
+  * Creating_Htable_class.ipynb - This is the jupyter notebook used to create and test the original htable class
+  * htable_oo.py - This is the final py file
 
 **[ReStructure - Data structures and Big O](https://github.com/USF-MSAN689/restructure-danielleasavage)**
   1. Creating_graphs.ipynb - This is the jupyter notebook used to create and test the original Node and Graph classes
