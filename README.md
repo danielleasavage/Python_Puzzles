@@ -48,7 +48,8 @@ The second line of input the final direction of the needle -- (0 ≤ n_2 ≤ 359
 
 __INPUT__
 The first line the number of days Belfort goes back in time -- d(1 ≤ d ≤ 365) type : int
-Then follow d lines is the price per share on day i. Days are ordered from oldest to newest -- pi(1 ≤ pi ≤ 500) : type int
+Then follow d lines is the price per share on day i. 
+Days are ordered from oldest to newest -- pi(1 ≤ pi ≤ 500) : type int
 ```
 * ranking.py - Final Solution to the following problem
 ```Spencer is playing a game that has a ranking system. There are 25 regular ranks, and an extra rank, Legend, above that. The ranks are numbered in decreasing order, 25 being the lowest rank, 1 the second highest rank, and Legend the highest rank.
