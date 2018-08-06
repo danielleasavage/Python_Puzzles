@@ -36,7 +36,5 @@ Given a prefix or a suffix find all matching words in a given list of words Code
 Description of the problems take from [CourseWare for Problem Solving with Python](https://github.com/USF-MSAN689/courseware/blob/master/hm-5/hm5.md)
 * noprobllama.ipynb - This is the jupyter notebook for creating and testing the puzzle solutions
 * compass.py - Final Solution to Compass Problem - Description in .ipynb
-
-* lazy.py - Final Solution to puzzle given below.
-
-* ranking.py - Final Solution to the following problem
+* lazy.py - Final Solution to Lazy Problem - Description in .ipynb
+* ranking.py - Final Solution to No More Games Problem - Description in .ipynb
