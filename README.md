@@ -16,8 +16,8 @@ Puzzles in Python taken from Problem Solving with Python @ USF
   3. test_graph.py - Test for correct implementation of graph.py
   4. big_o_plot.py - Plots BigO completxity
   
-**AutoComplete - Given a prefix or a suffix find all matching words in a given list of words**
-Code should runs in O(n) for n symbols
+**AutoComplete - Graph Practice**
+Given a prefix or a suffix find all matching words in a given list of words Code should runs in O(n) for n symbols
   1. autocomplete.ipynb - This is the jupyter notebook that was created to test the autocomplete before completing the final py file
   2. fix_search.py - Final autocomplete py file
   3. word_list.txt - Used for testing the autocomplete
@@ -31,8 +31,8 @@ Code should runs in O(n) for n symbols
 **NoProbLlama - Contains three puzzles and thier solutions**
   1. noprobllama.ipynb - This is the jupyter notebook that was used for testing the puzzle solutions before creating the final .py files
   2. compass.py - Final Solution to the following problem
-  ` Hello I am the problem`
+  > Hello I am the problem
   3. lazy.py - Final Solution to the following problem
-  ` Hello I am the problem`
+  > Hello I am the problem
   4. ranking.py - Final Solution to the following problem
-  ` Hello I am the problem`
+  > Hello I am the problem
