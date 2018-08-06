@@ -19,6 +19,7 @@ All solutions are written in Python 3. Enjoy :)
   4. big_o_plot.py - Plots BigO completxity
   
 **[AutoComplete - Tree/Trie Practice](https://github.com/USF-MSAN689/autocomplete-danielleasavage)**
+
 Given a prefix or a suffix find all matching words in a given list of words Code should runs in O(n) for n symbols
   1. autocomplete.ipynb - This is the jupyter notebook used to create and test the autocomplete program
   2. fix_search.py - Final py file for autocomplete program
