@@ -16,7 +16,7 @@ All solutions are written in Python 3. Enjoy :)
 * Creating_graphs.ipynb - This is the jupyter notebook used to create and test the original Node and Graph classes
 * graph.py - Implements class Node and class Graph
 * test_graph.py - Test for correct implementation of graph.py
-* big_o_plot.py - Plots BigO completxity
+* big_o_plot.py - Plots Big O completxity
 
 **[AutoComplete - Tree/Trie Practice](https://github.com/USF-MSAN689/autocomplete-danielleasavage)**
 
