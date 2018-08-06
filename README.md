@@ -26,7 +26,7 @@ Given a prefix or a suffix find all matching words in a given list of words Code
   3. call_me_maybe.py - A program that given a "phone number" prints a sorted list of all possible words generated from a telephone keypad and verifies them with a given word list
   4. words_list.txt - Used for testing is possible words are infact real words
 
-**NoProbLlama - Contains three puzzles and thier solutions**
+**Puzzle Set 2 - Contains three puzzles and thier solutions**
   1. noprobllama.ipynb - This is the jupyter notebook for creating and testing the puzzle solutions
   2. compass.py - Final Solution to the following problem
   > Hello I am the problem
