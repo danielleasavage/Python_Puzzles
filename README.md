@@ -25,13 +25,13 @@ Given a prefix or a suffix find all matching words in a given list of words Code
 * fix_search.py - Final py file for autocomplete program
 * word_list.txt - Used for testing the autocomplete
 
-**[Puzzle Set 1 - Contains two puzzles and thier solutions](https://github.com/USF-MSAN689/taco-cat-is-calling-danielleasavage)** 
+**[Puzzle Set 1 - Contains two puzzles and their solutions](https://github.com/USF-MSAN689/taco-cat-is-calling-danielleasavage)** 
 * puzzle_1.ipynb - This is the jupyter notebook used for creating and testing the puzzle solutions
 * taco_cat.py - A program that takes a word or a sentence and determines whereather is it palindrome or not
 * call_me_maybe.py - A program that given a "phone number" prints a sorted list of all possible words generated from a telephone keypad and verifies them with a given word list
 * words_list.txt - Used for testing is possible words are infact real words
 
-**[Puzzle Set 2 - Contains three puzzles and thier solutions](https://github.com/USF-MSAN689/noprobllamma-danielleasavage)**
+**[Puzzle Set 2 - Contains three puzzles and their solutions](https://github.com/USF-MSAN689/noprobllamma-danielleasavage)**
 
 Description of the problems take from [CourseWare for Problem Solving with Python](https://github.com/USF-MSAN689/courseware/blob/master/hm-5/hm5.md)
 * noprobllama.ipynb - This is the jupyter notebook for creating and testing the puzzle solutions
